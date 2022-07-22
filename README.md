@@ -1,0 +1,3 @@
+# ComputerVersion_VolumeReconstruction
+静态人物体素重建以及动态人物体素重建分别在两个文件夹内<p>
+每个文件夹内的pdf文件详细描述项目流程，技术细节并且在最后有项目展示的视频链接<p>
